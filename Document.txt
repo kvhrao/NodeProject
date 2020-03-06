@@ -1,0 +1,41 @@
+https://www.smashingmagazine.com/2019/02/node-api-http-es6-javascript/
+https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/
+https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced
+https://medium.com/codebuddies/getting-to-know-asynchronous-javascript-callbacks-promises-and-async-await-17e0673281ee
+https://www.dashingd3js.com/lessons/javascript-callback-functions
+
+
+https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/
+
+git clone clone
+git init
+git status
+add file
+git add .
+git commit -m "package json"
+git push
+
+git pull
+npm install
+
+https://nodeschool.io/
+
+https://www.codemag.com/Article/1407061/Building-a-Simple-NodeJS-API-on-Microsoft-Azure-Websites-from-Start-to-Finish
+https://scrimba.com/g/greact
+https://scrimba.com/g/glearnreact
+https://tylermcginnis.com/free-react-bootcamp/
+
+https://azurenodefunction.azurewebsites.net/api/Function1?code=Uov1GmGoF0glKFojTiAVy6ScUejjIVnVP8r7GXNAcGCoEOK5JVlHDQ==
+https://docs.microsoft.com/en-us/azure/app-service/deploy-local-git
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-nodejs
+https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+https://alvinalexander.com/git/git-show-change-username-email-address
+
+https://azure.microsoft.com/en-gb/resources/videos/create-a-web-app-with-nodejs-and-azure-app-service/
+https://docs.microsoft.com/en-us/azure/javascript/
+https://docs.microsoft.com/en-us/samples/browse/?languages=javascript%2Cnodejs&page=2
+https://azure.microsoft.com/en-gb/develop/nodejs/
+https://azure.microsoft.com/en-gb/resources/videos/create-a-web-app-with-nodejs-and-azure-app-service/
+
+
+https://www.freecodecamp.org/news/tag/javascript/
