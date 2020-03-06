@@ -2,9 +2,8 @@
   "name": "nodeproject",
   "version": "1.0.0",
   "description": "Node Project",
-  "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
